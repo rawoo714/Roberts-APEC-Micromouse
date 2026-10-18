@@ -1,0 +1,3 @@
+[submodule "Micromouse_PCB/Roberts-KiCAD-Library"]
+	path = Micromouse_PCB/Roberts-KiCAD-Library
+	url = https://github.com/rawoo714/Roberts-KiCAD-Library.git

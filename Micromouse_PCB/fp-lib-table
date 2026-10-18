@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Roberts-KiCAD-Library")(type "KiCad")(uri "${KIPRJMOD}/Roberts-KiCAD-Library")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Roberts-KiCAD-Library/footprints.pretty")(options "")(descr ""))
+  (lib (name "Robert's_footprints")(type "KiCad")(uri "${KIPRJMOD}/Roberts-KiCAD-Library/Robert's_footprints.pretty")(options "")(descr ""))
+)

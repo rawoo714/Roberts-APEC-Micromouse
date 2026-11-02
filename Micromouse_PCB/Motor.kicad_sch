@@ -616,7 +616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "UCIRP-KiCAD-Lib:Brushed_Motor Pololu_HPCB_12V_with_ENC_SIDE"
+		(property "Footprint" "Robert's_footprints:Micromouse V.2 motor + wheels"
 			(at 86.36 93.98 0)
 			(effects
 				(font
@@ -625,7 +625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/pololu/5207/22601665"
+		(property "Datasheet" ""
 			(at 86.36 85.09 0)
 			(effects
 				(font
@@ -677,7 +677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "UCIRP-KiCAD-Lib:Brushed_Motor Pololu_HPCB_12V_with_ENC_SIDE"
+		(property "Footprint" "Robert's_footprints:Micromouse V.2 motor + wheels"
 			(at 129.54 93.98 0)
 			(effects
 				(font
@@ -686,7 +686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/pololu/5207/22601665"
+		(property "Datasheet" ""
 			(at 129.54 85.09 0)
 			(effects
 				(font
